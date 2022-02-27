@@ -1,0 +1,139 @@
+body {
+	font-family: "Times New Roman", Times, serif;
+}
+
+#главный_заголовок {
+	background-color: #41B3A3;
+	margin-top: -8px;
+	margin-left: -8px;
+	margin-right: -8px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+h1 {
+	margin-top: 12px;
+	margin-bottom: 12px;
+	font-size: 2.2rem;
+	padding-left: 20px;
+	color: White;
+}
+
+hr {
+	margin: 0px -8px 0px -8px;
+}
+
+.меню {
+	float: left;
+	background-color: #292929;
+	color: Silver;
+	text-align: center;
+	width: 120px;
+	margin-right: 2px;
+}
+
+.обёртка_меню {
+	width: 364px;
+	background-color: Gray;
+	margin-left: -8px;
+	height: 53px;
+}
+
+#пункт {
+	margin-right: 0px;
+}
+
+h2 {
+	margin-top: 12.5px;
+	margin-bottom: 12.5px;
+	font-size: 25px;
+}
+
+.left-col {
+	float: left;
+	width: 25%;
+}
+
+.center-col {
+	float: left;
+	width: 50%;
+}
+
+.right-col {
+	float: right;
+	width: 25%;
+}
+
+.выбор_персонажа {
+	background-color: SaddleBrown;
+	margin: 15px 15px 15px 7px;
+	border: 2px solid;
+	width: 250px;
+	height: 375px;
+	overflow-y: auto;
+	border-radius: 10px;
+}
+
+.создать_персонажа, .персонаж {
+	background-color: #E27D60;
+	width: 242px;
+	height: 50px;
+	text-align: center;
+	border: 3px solid;
+	border-color: #141613;
+	font-size: 22px;
+	margin: 1px;
+	border-radius: 10px;
+}
+
+.текст_в_таблице {
+	margin-top: 14px;
+	margin-bottom: 14px;
+}
+
+.выход {
+	margin-top: 15px;
+	margin-left: 7px;
+	background-color: Gray;
+	border: 2px solid;
+	width: 100px;
+	height: 45px;
+	text-align: center;
+	font-size: 22px;
+	border-radius: 10px;
+}
+
+.выход_текст {
+	margin-top: 11.5px;
+	margin-bottom: 11.5px;
+}
+
+.главный_блок {
+	background-color: #05386B;
+	width: 540px;
+	height: 360px;
+	margin-top: 22.5px;
+	border: 2px solid;
+	border-radius: 10px;
+}
+
+.игрок_1, .игрок_2, .игрок_3, .игрок_4 {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	border: 2px solid;
+	border-color: #292929;
+	background-color: Gray;
+	float: left;
+	margin: 25px 35.5px 25px 35.5px;
+}
+
+.играть {
+	margin: 0 auto;
+	width: 242px;
+	height: 50px;
+	border: 2px solid;
+	background-color: #292929;
+	border-color: Gray;
+	border-radius: 10px;
+}
